@@ -1,6 +1,6 @@
 ---
 title: 第02周分享
-comments: true
+comments: false
 categories:
   - weekly
 tags:
@@ -31,6 +31,7 @@ CSDN 资讯的[这篇报道](https://blog.csdn.net/csdnnews/article/details/8610
 # 教程
 
 ## 1. [A Programmer's Guide to English](https://github.com/yujiangshui/A-Programmers-Guide-to-English/blob/master/README.md)
+
 专为程序员编写的英语学习指南。
 本教程目标人群是想要花一些时间真正掌握英语的人，尤其适合英语渣。对于英语渣来说，网上杂七杂八的英语学习技巧和经验不一定会有很多帮助，甚至会误导。比如这篇回答就说了，如果别人问答主如何学英语，她顶多给一句“多看美剧，培养语感”，好在这篇回答详细说了答主的水平和长期的努力细节，否则会误导一大片低水平英语渣去拼命的看美剧。所以在英语学习过程中，要注意查看符合自己水平的经验和教程，否则可能会走弯路。
 

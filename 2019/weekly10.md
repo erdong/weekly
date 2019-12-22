@@ -1,6 +1,6 @@
 ---
 title: 第10周分享
-comments: true
+comments: false
 categories:
   - weekly
 keywords:

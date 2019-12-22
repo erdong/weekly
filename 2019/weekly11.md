@@ -1,6 +1,6 @@
 ---
 title: 第11周分享
-comments: true
+comments: false
 categories:
   - weekly
 tags:

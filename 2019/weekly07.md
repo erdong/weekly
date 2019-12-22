@@ -1,6 +1,6 @@
 ---
 title: 第07周分享
-comments: true
+comments: false
 categories:
   - weekly
 keywords:

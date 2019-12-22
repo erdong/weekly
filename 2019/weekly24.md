@@ -1,6 +1,6 @@
 ---
 title: 第24周分享
-comments: true
+comments: false
 categories:
   - weekly
 tags:
